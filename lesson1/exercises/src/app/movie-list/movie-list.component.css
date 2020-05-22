@@ -1,0 +1,14 @@
+.movies {
+  color: rgb(0, 81, 128);
+  font-size: 16px;
+}
+
+.movies h3 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.movies ol {
+  display: inline-block;
+  text-align: left;
+}
